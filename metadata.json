@@ -1,0 +1,7 @@
+{
+  "name": "J.A.R.V.I.S. Hologram Interface",
+  "description": "A high-fidelity immersive HUD experience featuring real-time hand tracking, 3D holographic earth manipulation, and cyberpunk aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
